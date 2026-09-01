@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+illustration-plan/
+插图生成/
+qa-report.json

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 小学课本插图生成"
+  short_description: "解析PPT并批量生成统一风格的小学生课外课本配图与透明素材"
+  default_prompt: "使用 $generate-ppt-textbook-illustrations 解析这份 PPT，先输出配图任务清单供确认，再生成全部已确认图片。"
